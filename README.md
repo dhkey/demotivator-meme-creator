@@ -2,8 +2,6 @@
 
 ![result](https://github.com/user-attachments/assets/0c419fb2-a566-4778-a1e5-c7027282d3f1)
 
-_framework called pillow was used_
-
 ## PLANS:
 -change size when text is longer than image width
 
